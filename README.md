@@ -3,21 +3,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a align="center" href="https://github.com/Lelozitos/HealthML.git" style="font-size:100px"> 🏥 </a>
+  <a align="center" href="https://github.com/Lelozitos/HealthML" style="font-size:100px"> 🏥 </a>
 
 <h3 align="center">Health Machine Learning</h3>
 
   <p align="center">
     Using Machine Learning to help track death cases in public hospitals
     <br />
-    <a href="https://github.com/Lelozitos/HealthML.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Lelozitos/HealthML"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!--<a href="https://github.com/Lelozitos/HealthML.git">View Demo</a>-->
     <!--·-->
-    <a href="https://github.com/Lelozitos/HealthML.git/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Lelozitos/HealthML/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Lelozitos/HealthML.git/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Lelozitos/HealthML/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -49,6 +49,8 @@
  <!--![Demo](aaaaaaaaaaaaaaaaa) -->
 
 Using a public hospital [Data Base](https://drive.google.com/file/d/1U-XPNjYmcdOugNJBVGAQ7UtQDjb0VnL8/view?usp=sharing) from Brazil, and using [this table](https://drive.google.com/file/d/1K9uOEvI7ffgBGzV9gXiluurW-xMgfTac/view?usp=sharing) as explanation, measure how likely someone is to survive.
+
+I had a lot of trouble projecting my data as category or scale, since some data is scalable and others are not.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,16 +112,29 @@ Using a public hospital [Data Base](https://drive.google.com/file/d/1U-XPNjYmcdO
 
 - [ ] Add requirements.txt
 - [ ] Finish step 8 (8.1)
-- [ ] Pre process data
+- [x] Pre process data
 - [ ] Add graphs
 - [ ] Add ML model
 - [ ] Add demo
 - [ ] Add main file
 - [ ] Update README
   - [ ] Usage Sector
-  - [ ] Fix `Report Bug · Request Feature`
+  - [x] Fix `Report Bug · Request Feature`
 
-See the [open issues](https://github.com/Lelozitos/HealthML.git/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Lelozitos/HealthML/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- REFERENCES -->
+
+<a name="references"></a>
+
+## 📰 References
+
+[Data Transformation (Manikandan, S)](https://www.proquest.com/openview/0cd9253c4373494ffa63f77a54621538/1?pq-origsite=gscholar&cbl=226473)  
+[Codificação de Variáveis - Label vs One-Hot Encoder (Vinícius Bôscoa)](https://www.viniboscoa.dev/blog/codificacao-de-variaveis-label-vs-one-hot-encoder)  
+[Label Encoder vs. One Hot Encoder in Machine Learning (Sunny Srinidhi)](https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)  
+[Scaling and Normalization: Preparing Data for Analysis](https://dataheadhunters.com/academy/scaling-and-normalization-preparing-data-for-analysis/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,9 +144,8 @@ See the [open issues](https://github.com/Lelozitos/HealthML.git/issues) for a fu
 
 ## 📞 Contact
 
-Leandro Fabre - [LinkedIn](https://www.linkedin.com/in/leandrofabre/)
-
-Project Link: [https://github.com/Lelozitos/HealthML.git](https://github.com/Lelozitos/HealthML.git)
+Leandro Fabre - [LinkedIn](https://www.linkedin.com/in/leandrofabre/)  
+Project Link: [https://github.com/Lelozitos/HealthML](https://github.com/Lelozitos/HealthML)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
