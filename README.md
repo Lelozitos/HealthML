@@ -50,7 +50,7 @@
 
 Using a public hospital [Data Base](https://drive.google.com/file/d/1U-XPNjYmcdOugNJBVGAQ7UtQDjb0VnL8/view?usp=sharing) from Brazil, and using [this table](https://drive.google.com/file/d/1K9uOEvI7ffgBGzV9gXiluurW-xMgfTac/view?usp=sharing) as explanation, measure how likely someone is to survive.
 
-I had a lot of trouble projecting my data as category or scale, since some data is scalable and others are not.
+I had a lot of trouble projecting my data as category or scale, since some data is scalable and others are not. Also, the test size and n_estimators are completely arbitrary, might do some reasearch to find more optimal values.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +114,7 @@ I had a lot of trouble projecting my data as category or scale, since some data 
 - [ ] Finish step 8 (8.1)
 - [x] Pre process data
 - [ ] Add graphs
-- [ ] Add ML model
+- [x] Add ML model
 - [ ] Add demo
 - [ ] Add main file
 - [ ] Update README
