@@ -75,7 +75,7 @@ I had a lot of trouble projecting my data as category or scale, since some data 
    git clone https://github.com/Lelozitos/HealthML.git
    ```
 
-1. Install Requirements
+2. Install Requirements
 
    - Open `InstallRequirements.bat` or
    - Install with pip
@@ -83,10 +83,7 @@ I had a lot of trouble projecting my data as category or scale, since some data 
      python -m pip install requirements.txt
      ```
 
-1. Running the app
-   ```sh
-   python ./main.py
-   ```
+3. Running the jupyter notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,12 +108,10 @@ I had a lot of trouble projecting my data as category or scale, since some data 
 ## 🚀 Roadmap
 
 - [ ] Add requirements.txt
-- [ ] Finish step 8 (8.1)
+- [x] Finish step 8 (8.1)
 - [x] Pre process data
-- [ ] Add graphs
+- [x] Add graphs
 - [x] Add ML model
-- [ ] Add demo
-- [ ] Add main file
 - [ ] Update README
   - [ ] Usage Sector
   - [x] Fix `Report Bug · Request Feature`
@@ -134,7 +129,8 @@ See the [open issues](https://github.com/Lelozitos/HealthML/issues) for a full l
 [Data Transformation (Manikandan, S)](https://www.proquest.com/openview/0cd9253c4373494ffa63f77a54621538/1?pq-origsite=gscholar&cbl=226473)  
 [Codificação de Variáveis - Label vs One-Hot Encoder (Vinícius Bôscoa)](https://www.viniboscoa.dev/blog/codificacao-de-variaveis-label-vs-one-hot-encoder)  
 [Label Encoder vs. One Hot Encoder in Machine Learning (Sunny Srinidhi)](https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)  
-[Scaling and Normalization: Preparing Data for Analysis](https://dataheadhunters.com/academy/scaling-and-normalization-preparing-data-for-analysis/)
+[Scaling and Normalization: Preparing Data for Analysis](https://dataheadhunters.com/academy/scaling-and-normalization-preparing-data-for-analysis/)  
+[How to Do Model Visualization in Machine Learning? (Nilesh Barla, Abhishek Jha)](https://neptune.ai/blog/visualization-in-machine-learning)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
