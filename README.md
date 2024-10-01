@@ -80,7 +80,7 @@ I had a lot of trouble projecting my data as category or scale, since some data 
    - Open `InstallRequirements.bat` or
    - Install with pip
      ```sh
-     python -m pip install requirements.txt
+     python -m pip install -r requirements.txt
      ```
 
 3. Running the jupyter notebook
