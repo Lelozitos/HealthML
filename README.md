@@ -31,11 +31,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#installation">Installation</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#references">References</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -87,27 +85,13 @@ I had a lot of trouble projecting my data as category or scale, since some data 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE -->
-
-<a name="usage"></a>
-
-## 🔧 Usage
-
-<!--Just run the main.py file and all the graphs should appear-->
-
-<!--- **graph1 |** See graphs-->
-<!--- **graph2 &nbsp;&nbsp;|** See graphs-->
-<!--- **graph3 &nbsp;|** See graphs-->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 
 <a name="roadmap"></a>
 
 ## 🚀 Roadmap
 
-- [ ] Add requirements.txt
+- [x] Add requirements.txt
 - [x] Finish step 8 (8.1)
 - [x] Pre process data
 - [x] Add graphs
